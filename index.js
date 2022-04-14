@@ -9,10 +9,13 @@ function distanceFromHqInBlocks(){
 // distanceFromHqInBlocks(43)
 distanceFromHqInBlocks(50)
 
-// function distanceFromHqInFeet(){
-//     return 2112
-// }
+function distanceFromHqInFeet(){
+        return 264
+//      return 2112
+}
+distanceFromHqInFeet(43)
 // distanceFromHqInFeet(50)
+
 
 // function distanceTravelledInFeet(){
 //     // return (48-43)*264
