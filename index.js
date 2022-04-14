@@ -38,12 +38,12 @@ function calculatesFarePrice(start, destination){
 //  return (((34-32)*264)-400)*0.02
 // // if (feet>=400 && feet <= 2000)
 // return (((34-32)*264)-400)*0.02
-    return 25;
-//     return 'cannot travel that far';
+    // return 25;
+    return 'cannot travel that far';
 
 }
 // calculatesFarePrice(43, 44);
 // calculatesFarePrice(34, 32)
-calculatesFarePrice(50, 58)
-// calculatesFarePrice(34, 24);
+// calculatesFarePrice(50, 58)
+calculatesFarePrice(34, 24);
 
