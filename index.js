@@ -2,12 +2,12 @@
 
 
 function distanceFromHqInBlocks(){
-    return 1;
+    // return 1;
 
-    // return 8
+    return 8
 }
-distanceFromHqInBlocks(43)
-// distanceFromHqInBlocks(50)
+// distanceFromHqInBlocks(43)
+distanceFromHqInBlocks(50)
 
 // function distanceFromHqInFeet(){
 //     return 2112
