@@ -11,19 +11,21 @@ distanceFromHqInBlocks(50)
 
 function distanceFromHqInFeet(){
         // return 264
-     return 2112
+    //  return 2112
+    return 2112
+
 }
 // distanceFromHqInFeet(43)
 distanceFromHqInFeet(50)
 
 
-// function distanceTravelledInFeet(){
-//     // return (48-43)*264
+function distanceTravelledInFeet(){
+    return (48-43)*264
 //     // return (60-50)*264
 //     return (34-28)*264
 
-// }
-// distanceTravelledInFeet()
+}
+distanceTravelledInFeet(43, 48)
 
 // // function calculatesFarePrice(start, destination)
 // function calculatesFarePrice(start, destination){
